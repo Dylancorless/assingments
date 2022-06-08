@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    Border: 2px solid black;
+    height: 130px;
+    width: 400px;
+    position: absolute; top: 200px; left: 460px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+
+.name{
+    margin-right: 100px;
+}
+
+.like-button {
+    background-color: yellow;
+    box-shadow: 2px 2px black;
+    width: 50px;
+    height: 30px;
+    border: 2px solid black;
+    font-size: 16px;
+}
+
+#number{
+    font-size: 16px;
+}
+.text{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 22px;
+}

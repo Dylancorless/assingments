@@ -1,0 +1,41 @@
+.nav{
+    display: flex;
+    align-items: center;
+    background-color: rgb(65, 65, 65);
+
+}
+
+.nav-links{
+    width: 600px;
+    height: 40px;
+    color: rgb(65, 65, 65);
+    font-size: 17px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 60px;
+    position: fixed; top: 10px; left: 1240px;
+}
+.nav-title{
+    color: white;
+    padding-left: 60px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.active{
+    font-weight: bold;
+}
+.btn{
+    background-color: skyblue;
+    color: white;
+    padding: 5px 5px;
+    border: 3px solid black;
+    font-size: 17px;
+    box-shadow: 5px 5px black;
+}

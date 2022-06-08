@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: rgb(175, 175, 175);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 690px;
+    height: 70px;
+    position: absolute; top: 0px; left: 500px;
+}
+.container h1{
+    margin-right: 70px;
+}
+
+#button{
+    height: 25px;
+    width: 50px;
+    margin-left: 50px;
+    background-color: rgb(49, 135, 189);
+    color: white;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+}
+
+.search{
+    width: 300px;
+    height: 20px;
+
+    outline: 3px solid;
+}
+
+.definition1{
+    border: 2px solid black;
+    height: 200px;
+    width: 460px;
+    padding-left: 10px;
+    position: absolute; top: 100px; left: 500px;
+}
+.likes{
+    background-color: rgb(243, 227, 8);
+    height: 30px;
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 10px;
+    box-shadow: 2px 2px black;
+}
+.title{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.description{
+    font-size: 25px;
+    width: 300px;
+    position: absolute; top: 60px; left: 160px;
+}
+
+.definition2{
+    border: 2px solid black;
+    height: 200px;
+    width: 460px;
+    padding-left: 10px;
+    position: absolute; top: 350px; left: 500px;
+}
+.title2{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.description2{
+    font-size: 25px;
+    width: 300px;
+    position: absolute; top: 60px; left: 160px;
+}
+.Defined{
+    Border: 2px solid black;
+    width: 180px;
+    height: 110px;
+    font-size: 24px;
+    position: absolute; top: 100px; left: 1007px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.add-definition{
+    background-color: rgb(143, 184, 143);
+    font-size: 14px;
+    margin-top: 10px;
+    width: 150px;
+    height: 30px;
+    box-shadow: 2px 2px black;
+}

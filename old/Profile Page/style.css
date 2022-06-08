@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container{
+    height: 253px;
+    width: 300px;
+    position: fixed; 
+    top: 115px; 
+    left: 325px; 
+    border: 2px solid rgb(170, 170, 170);
+    padding-top: 20px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+.circle{
+    background-color: white;
+    height: 75px;
+    width: 75px;
+    border: 2px solid rgb(170, 170, 170);
+    border-radius: 50%;
+    padding: 2px;
+}
+
+
+.map-marker{
+    height: 15px;
+    width: 15px;
+}
+.gear{
+    height: 10px;
+    width: 10px;
+}
+
+.bio{
+    font-size: 18px;
+}
+
+.rectangle{
+    background-color: skyblue;
+    width: 525px;
+    height: 60px;
+    position: fixed;
+    top: 115px; 
+    left: 325px; 
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    background-color:black;
+    height: 60px;
+}
+
+.nav-links{
+    width: 400px;
+    height: 40px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed; top: 10px; left: 470px;
+    list-style: none;
+}
+
+.nav-title{
+    color: white;
+    padding-left: 60px;
+    position: fixed; top: 10px; left: 270px;
+}
+
+.non-active{
+    color: white;
+    text-decoration: none;
+}
+
+.active{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.btn{
+    background-color: skyblue;
+    color: white;
+    padding: 5px 5px;
+    border: 3px solid black;
+    font-size: 17px;
+    box-shadow: 5px 5px black;
+    position: fixed; top: 10px; left: 1100px;
+}
+
+.connection-requests{
+    Border: 2px solid rgb(170, 170, 170);
+    position: fixed; top: 115px; left: 900px;
+    width: 275px;
+    height: 160px;
+}
+
+.header{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.amount1{
+    background-color: rgb(128, 128, 128);
+    color: black;
+    padding: 0 5px;
+    border-radius: 49%;
+    height: 12px;
+    margin-right: 10px;
+}
+
+.user-img{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.user-request{
+    font-size: 22px;
+    margin-left: 10px;
+}
+
+.options{
+    margin-left: 90px;
+}
+.options2{
+    margin-left: 97px;
+}
+
+.your-connections{
+    position: fixed; top: 300px; left: 900px;
+width: 275px;
+height: 250px;
+border: 2px solid rgb(170, 170, 170)
+}
+
+.amount2{
+    background-color: rgb(128, 128, 128);
+    color: black;
+    padding: 0 5px;
+    border-radius: 49%;
+    height: 12px;
+    margin-right: 10px;
+}
+
+.user-friend{
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.more{
+    margin-top: 15px;
+    width: 255px;
+    margin-left: -2px;
+    padding: 10px;
+    font-size: 22px;
+    border: 2px solid rgb(170, 170, 170)
+}
+
+.education{
+    border: 2px solid rgb(170, 170, 170);
+    position: fixed; top: 450px; left: 325px;
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+}
+
+.header2{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    width: 490px;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    position: fixed; top: 452px; left: 327px;
+
+}
+
+.education-entry{
+padding-top: 50px;
+}
+
+.edu-title{
+    font-size: 22px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.edu-duration{
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 17px;
+    color: rgb(104, 103, 103);
+}
+
+.edu-description{
+    margin-left: 10px;
+padding-top: 5px;
+}

@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 203px;
+    width: 250px;
+    position: fixed; 
+    top: 325px; 
+    left: 650px; 
+    border: 2px solid rgb(170, 170, 170);
+    padding-top: 10px; 
+    padding-right: 250px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+.circle{
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    border: 2px solid rgb(170, 170, 170);
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.map-marker{
+    height: 15px;
+    width: 15px;
+}
+.gear{
+    height: 10px;
+    width: 10px;
+}
+
+.rectangle{
+    background-color: cadetblue;
+    width: 513px;
+    height: 60px;
+    position: fixed;
+    top: 325px; 
+    left: 650px; 
+}
+p{
+    margin: 3px auto;
+}
+

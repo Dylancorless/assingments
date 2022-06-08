@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.top{
+    background-color: black;
+    color: white;
+    width: 800px;
+    margin-left: 485px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.subtop{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    width:870px;
+    margin-left: 425px;
+}
+
+.user{
+    border: 2px solid black;
+    width: 210px;
+    height: 300px;
+    position: absolute; top: 200px; left: 500px;
+}
+
+.img{
+width: 100px;
+height: 100px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 50px;
+}
+
+.settings{
+
+    padding-left: 40px;
+    font-size: 24px;
+}
+
+.info{
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 34px;
+}
+.container{
+    Border: 2px solid black;
+    height: 130px;
+    width: 500px;
+    position: absolute; top: 200px; left: 800px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+
+.name{
+    margin-right: 100px;
+}
+
+.like-button{
+    background-color: yellow;
+    box-shadow: 2px 2px black;
+    width: 50px;
+    height: 30px;
+    border: 3px solid black;
+    font-size: 16px;
+}
+
+#amount{
+    font-size: 16px;
+}
+.text{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 22px;
+}
+
+.container2{
+    Border: 2px solid black;
+    height: 130px;
+    width: 500px;
+    position: absolute; top: 350px; left: 800px;
+}
+
+.header2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+
+.name2{
+    margin-right: 100px;
+}
+
+.like-button2{
+    background-color: yellow;
+    box-shadow: 2px 2px black;
+    width: 50px;
+    height: 30px;
+    border: 3px solid black;
+    font-size: 16px;
+}
+
+#amount2{
+font-size: 16px;
+}
+
+.text2{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 22px;
+}
+
+.container3{
+    Border: 2px solid black;
+    height: 130px;
+    width: 500px;
+    position: absolute; top: 500px; left: 800px;
+}
+
+.header3{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+
+.name3{
+    margin-right: 100px;
+}
+
+.like-button3{
+    background-color: yellow;
+    box-shadow: 2px 2px black;
+    width: 50px;
+    height: 30px;
+    border: 3px solid black;
+    font-size: 16px;
+}
+
+#amount3{
+font-size: 16px;
+}
+
+.text3{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 22px;
+}
